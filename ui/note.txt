@@ -1,0 +1,1 @@
+pyuic5 -x lottery_draw.ui -o lottery_draw.py
